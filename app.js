@@ -120,4 +120,4 @@ document.addEventListener('keydown', function(e) {
 
 requestAnimationFrame(loop)
 
-// snake game 2024
+// 2024
