@@ -120,5 +120,4 @@ document.addEventListener('keydown', function(e) {
 
 requestAnimationFrame(loop)
 
-// 2024 test snake
-
+// 2024 test
